@@ -11,7 +11,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class AmazonTest {
+public class Amazontest {
 	public static WebDriver driver;
 	@BeforeMethod
 	  public void Launch() {
